@@ -1,2 +1,6 @@
-hello abhishek
 
+good morning abhishek
+
+=======
+hi abhishek
+>>>>>>> branch1
