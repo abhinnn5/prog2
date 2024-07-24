@@ -1,2 +1,4 @@
- this is abhii
+<<<<<<< HEAD
+ this is peadeep
+>>>>>>> brn1
  abhishek
